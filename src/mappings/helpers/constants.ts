@@ -41,7 +41,7 @@ let network: string = dataSource.network();
 
 let vaultAddressByNetwork: AddressByNetwork = {
   mainnet: '',
-  goerli: '0x1F56FDcB9E3a818E4BB2E6Fe2cb73F7385D3Aeac',
+  goerli: '0xD8a14084e92d6187F1945cB31995d67de54906cD',
   polygon: '',
   arbitrum: '',
   gnosis: '',

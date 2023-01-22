@@ -26,8 +26,8 @@ export const assets: Assets = {
   pricingAssets: [
     Address.fromString('0xe4E96Cf369D4d604Bedc4d7962F94D53E4B5e3C6'), // WETH
     Address.fromString('0x61a9FD4272521D5aC10C746200fe87A85ff42fe2'), // WBTC
-    Address.fromString('0x0bD5AC1eDcA0380E8709773F502C2960DeCcaF79'), // BAL
-    Address.fromString('0x39F84FE24135D3C160b5E1BCa36b0e66b6C11c4E'), // B-80BAL-20WETH
+    Address.fromString('0xa5694789C0BaED77d16ca36edC45C9366DBFe0A9'), // BAL
+    Address.fromString('0x762b77980Ea2d624CDc5F774352F25C598E469CE'), // B-80BAL-20WETH
   ],
   fxAssets: [
   ],
