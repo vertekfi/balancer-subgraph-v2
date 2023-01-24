@@ -40,12 +40,12 @@ class AddressByNetwork {
 let network: string = dataSource.network();
 
 let vaultAddressByNetwork: AddressByNetwork = {
-  mainnet: '',
-  goerli: '0xD8a14084e92d6187F1945cB31995d67de54906cD',
+  mainnet: '0x2a59fCaa63efBEFe8816A4dF510E8f216D88F6FE',
+  goerli: '0x516015fE217Bd8e5e7103AD7F64303A37894299f',
   polygon: '',
   arbitrum: '',
   gnosis: '',
-  bnb: '',
+  bnb: '0x2a59fCaa63efBEFe8816A4dF510E8f216D88F6FE',
   dev: '',
 };
 

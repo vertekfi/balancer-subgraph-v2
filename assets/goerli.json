@@ -15,6 +15,14 @@
     {
       "address": "0x1ab40126513036458e00Cc827FFd9e7D0436219d",
       "symbol": "USDT"
+    },
+    {
+      "address": "0xB6De25C9F18a10B51243CD92Fa4348727a99083f",
+      "symbol": "TUSD"
+    },
+    {
+      "address": "0x78613d6778DC5CCaA124041a7387c2bDc6089032",
+      "symbol": "FRAX"
     }
   ],
   "pricingAssets": [
@@ -31,7 +39,7 @@
       "symbol": "BAL"
     },
     {
-      "address": "0x762b77980Ea2d624CDc5F774352F25C598E469CE",
+      "address": "0x11422d24858d9a7396A1533AB49F594699bc8ba0",
       "symbol": "B-80BAL-20WETH"
     }
   ]

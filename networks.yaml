@@ -1,14 +1,14 @@
 goerli:
   network: goerli
   Vault:
-    address: "0xD8a14084e92d6187F1945cB31995d67de54906cD"
-    startBlock: 8351995
+    address: "0x516015fE217Bd8e5e7103AD7F64303A37894299f"
+    startBlock: 8368565
   # WeightedPoolFactory:
   #   address: "0x8E9aa87E45e92bad84D5F8DD1bff34Fb92637dE9"
   #   startBlock: 4648101
   WeightedPoolV2Factory:
-    address: "0x0E7EBca7B9cbFB2797d812D52Bb6DD09598e3601"
-    startBlock: 8352044
+    address: "0xadeb52D9FBe11a5e076cE212c47e3BF8E777Cbba"
+    startBlock: 8369569
   # StablePoolFactory:
   #   address: "0x44afeb87c871D8fEA9398a026DeA2BD3A13F5769"
   #   startBlock: 6992992

@@ -11,6 +11,14 @@
     {
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "symbol": "USDT"
+    },
+    {
+      "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+      "symbol": "TUSD"
+    },
+    {
+      "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+      "symbol": "FRAX"
     }
   ],
   "pricingAssets": [
