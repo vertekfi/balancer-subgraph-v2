@@ -21,14 +21,14 @@ goerli:
   # StablePhantomPoolFactory:
   #   address: "0x41E9036AE350baEDCC7107760A020Dca3c0731ec"
   #   startBlock: 6993896
-# bnb:
-#   network: bsc
-#   Vault:
-#     address: "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
-#     startBlock: 22895868
-#   WeightedPoolV2Factory:
-#     address: "0xC128a9954e6c874eA3d62ce62B468bA073093F25"
-#     startBlock: 22895868
+bnb:
+  network: bsc
+  Vault:
+    address: "0x2a59fCaa63efBEFe8816A4dF510E8f216D88F6FE"
+    startBlock: 25065689
+  WeightedPoolV2Factory:
+    address: "0x65d3835D08BDCd2336E393F0Ed4D6CC99181B8c3"
+    startBlock: 25073683
 #   ComposableStablePoolFactory:
 #     address: "0xf302f9F50958c5593770FDf4d4812309fF77414f"
 #     startBlock: 22895868
