@@ -24,11 +24,11 @@ goerli:
 bnb:
   network: bsc
   Vault:
-    address: "0x2a59fCaa63efBEFe8816A4dF510E8f216D88F6FE"
-    startBlock: 25065689
+    address: "0x719488F4E859953967eFE963c6Bed059BaAab60c"
+    startBlock: 25100959
   WeightedPoolV2Factory:
-    address: "0x65d3835D08BDCd2336E393F0Ed4D6CC99181B8c3"
-    startBlock: 25073683
+    address: "0xDE8993Bf9D6Eb1e0d752fe56ccB85Ef76538ABb6"
+    startBlock: 25101248
 #   ComposableStablePoolFactory:
 #     address: "0xf302f9F50958c5593770FDf4d4812309fF77414f"
 #     startBlock: 22895868
