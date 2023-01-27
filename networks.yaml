@@ -3,9 +3,6 @@ goerli:
   Vault:
     address: "0xBA5CE8dFcB1E077B4537aCaD17400D843842c520"
     startBlock: 8370138
-  # WeightedPoolFactory:
-  #   address: "0x8E9aa87E45e92bad84D5F8DD1bff34Fb92637dE9"
-  #   startBlock: 4648101
   WeightedPoolV2Factory:
     address: "0x94b67Ee1359A26E0527BFafD9C37aD84D9ABda77"
     startBlock: 8370317
@@ -30,12 +27,6 @@ bnb:
   StablePhantomPoolFactory:
     address: "0x072a48eEADd2eb0E44A0A1Fd237A87F3CBF81bDa"
     startBlock: 25140708
-#   ComposableStablePoolFactory:
-#     address: "0xf302f9F50958c5593770FDf4d4812309fF77414f"
-#     startBlock: 22895868
-#   TempLiquidityBootstrappingPoolFactory:
-#     address: "0xC128468b7Ce63eA702C1f104D55A2566b13D3ABD"
-#     startBlock: 22895868
-#   AaveLinearPoolV2Factory:
-#     address: "0x2E96068b3D5B5BAE3D7515da4A1D2E52d08A2647"
-#     startBlock: 22895868
+  StablePoolFactory:
+    address: "0x9e2850729A4d44B1D862bEDF7CE458d71F10aC37"
+    startBlock: 25141602
