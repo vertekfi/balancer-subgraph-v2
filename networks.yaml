@@ -9,18 +9,16 @@ goerli:
   WeightedPoolV2Factory:
     address: "0x94b67Ee1359A26E0527BFafD9C37aD84D9ABda77"
     startBlock: 8370317
-  # StablePoolFactory:
-  #   address: "0x44afeb87c871D8fEA9398a026DeA2BD3A13F5769"
-  #   startBlock: 6992992
+  StablePoolFactory:
+    address: "0x7B10Ff68C0b6feB8E1C72D8657eCDF4e1b29fFb8"
+    startBlock: 8383958
   # MetaStablePoolFactory:
   #   address: "0xA55F73E2281c60206ba43A3590dB07B8955832Be"
   #   startBlock: 6993057
   # LiquidityBootstrappingPoolFactory:
   #   address: "0xb48Cc42C45d262534e46d5965a9Ac496F1B7a830"
   #   startBlock: 6993037
-  # StablePhantomPoolFactory:
-  #   address: "0x41E9036AE350baEDCC7107760A020Dca3c0731ec"
-  #   startBlock: 6993896
+
 bnb:
   network: bsc
   Vault:
@@ -29,6 +27,9 @@ bnb:
   WeightedPoolV2Factory:
     address: "0xDE8993Bf9D6Eb1e0d752fe56ccB85Ef76538ABb6"
     startBlock: 25101248
+  StablePhantomPoolFactory:
+    address: "0x072a48eEADd2eb0E44A0A1Fd237A87F3CBF81bDa"
+    startBlock: 25140708
 #   ComposableStablePoolFactory:
 #     address: "0xf302f9F50958c5593770FDf4d4812309fF77414f"
 #     startBlock: 22895868
