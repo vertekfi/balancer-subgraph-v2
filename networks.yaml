@@ -6,9 +6,12 @@ goerli:
   WeightedPoolV2Factory:
     address: "0x94b67Ee1359A26E0527BFafD9C37aD84D9ABda77"
     startBlock: 8370317
-  StablePoolFactory:
+  StablePhantomPoolFactory:
     address: "0x7B10Ff68C0b6feB8E1C72D8657eCDF4e1b29fFb8"
     startBlock: 8383958
+  StablePoolFactory:
+    address: "0x7FB72Bf3F5b7f994CC1563FDd47E9Edc13b6Be15"
+    startBlock: 25141602
   # MetaStablePoolFactory:
   #   address: "0xA55F73E2281c60206ba43A3590dB07B8955832Be"
   #   startBlock: 6993057
