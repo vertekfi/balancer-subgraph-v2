@@ -27,6 +27,9 @@ bnb:
   WeightedPoolV2Factory:
     address: "0xDE8993Bf9D6Eb1e0d752fe56ccB85Ef76538ABb6"
     startBlock: 25101248
+  WeightedPoolV2FeeFactory:
+    address: "0xb9C7a581F0792d667beb684Bab1AF4FFFa14DA98"
+    startBlock: 25439817
   StablePhantomPoolFactory:
     address: "0x072a48eEADd2eb0E44A0A1Fd237A87F3CBF81bDa"
     startBlock: 25140708
