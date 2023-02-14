@@ -36,3 +36,6 @@ bnb:
   StablePoolFactory:
     address: "0x9e2850729A4d44B1D862bEDF7CE458d71F10aC37"
     startBlock: 25141602
+  MetaStablePoolFactory:
+    address: "0x1Af7cB48ACa54a3d94929204e7961B356FCA8636"
+    startBlock: 25659516
