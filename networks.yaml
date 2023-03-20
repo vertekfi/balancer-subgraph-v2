@@ -42,3 +42,15 @@ bnb:
   ComposableStablePoolV3Factory:
     address: "0xfD50F5eAd870bdCFa69940c41a5C10f015b419e7"
     startBlock: 25777066
+
+arbitrum:
+  network: arbitrum-one
+  Vault:
+    address: "0xe4E96Cf369D4d604Bedc4d7962F94D53E4B5e3C6"
+    startBlock: 71855303
+  WeightedPoolV2Factory:
+    address: "0xd71114b3AD1Ec657B4194E0B3b7C9fC71C7bdbEF"
+    startBlock: 71876278
+  ComposableStablePoolV3Factory:
+    address: "0x626355410729525eec3fd5628D840d683F24456d"
+    startBlock: 71879235

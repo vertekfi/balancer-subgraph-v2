@@ -43,7 +43,7 @@ let vaultAddressByNetwork: AddressByNetwork = {
   mainnet: '0x719488F4E859953967eFE963c6Bed059BaAab60c',
   goerli: '0xBA5CE8dFcB1E077B4537aCaD17400D843842c520',
   polygon: '',
-  arbitrum: '',
+  arbitrum: '0xe4E96Cf369D4d604Bedc4d7962F94D53E4B5e3C6',
   gnosis: '',
   bnb: '0x719488F4E859953967eFE963c6Bed059BaAab60c',
   dev: '',
