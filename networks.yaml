@@ -54,3 +54,6 @@ arbitrum:
   ComposableStablePoolV3Factory:
     address: "0x626355410729525eec3fd5628D840d683F24456d"
     startBlock: 71879235
+  StablePoolFactory:
+    address: "0x9e2850729A4d44B1D862bEDF7CE458d71F10aC37"
+    startBlock: 77187076
