@@ -16,6 +16,7 @@ export const DAI_ADDRESS = Address.fromString('0xDA10009cBd5D07dd0CeCc66161FC93D
 export const USDT_ADDRESS = Address.fromString('0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9');
 export const TUSD_ADDRESS = Address.fromString('0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07');
 export const FRAX_ADDRESS = Address.fromString('0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F');
+export const MAI_ADDRESS = Address.fromString('0x3F56e0c36d275367b8C502090EDF38289b3dEa0d');
 
 export const assets: Assets = {
   stableAssets: [
@@ -24,6 +25,7 @@ export const assets: Assets = {
     Address.fromString('0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9'), // USDT
     Address.fromString('0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07'), // TUSD
     Address.fromString('0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F'), // FRAX
+    Address.fromString('0x3F56e0c36d275367b8C502090EDF38289b3dEa0d'), // MAI
   ],
   pricingAssets: [
     Address.fromString('0x82aF49447D8a07e3bd95BD0d56f35241523fBab1'), // WETH
