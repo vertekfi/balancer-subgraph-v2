@@ -51,9 +51,15 @@ arbitrum:
   WeightedPoolV2Factory:
     address: "0xd71114b3AD1Ec657B4194E0B3b7C9fC71C7bdbEF"
     startBlock: 71876278
+  WeightedPoolV4Factory:
+    address: "0x684EB9D76bf8be2061D581f5522b9feCC2A8E715"
+    startBlock: 90288844
   ComposableStablePoolV3Factory:
     address: "0x626355410729525eec3fd5628D840d683F24456d"
     startBlock: 71879235
+  ComposableStablePoolV4Factory:
+    address: "0xBD6c61e2dEFE6E4fAF241e773018A4BF50F8fb3d"
+    startBlock: 90304159
   StablePoolFactory:
     address: "0x9e2850729A4d44B1D862bEDF7CE458d71F10aC37"
     startBlock: 77187076
