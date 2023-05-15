@@ -63,6 +63,6 @@ arbitrum:
   StablePoolFactory:
     address: "0x9e2850729A4d44B1D862bEDF7CE458d71F10aC37"
     startBlock: 77187076
-  # MetaStablePoolFactory:
-  #   startBlock: 90678893
-  #   address: "0x434B37Ab01B876106be066AA91d276a1377dD93D"
+  MetaStablePoolFactory:
+    startBlock: 90761068 # one after first test pool
+    address: "0x434B37Ab01B876106be066AA91d276a1377dD93D"
